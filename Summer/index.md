@@ -24,9 +24,7 @@ If you have never taken an online course, you may be surprised how easy it is to
 ### How to get help:
 I will respond to emails very quickly, so whenever you are struggling with a concept, program, or anything else - please get in touch.  It is best to send me your code as an attachment with any email, so I can see precisely what you are doing.  I will hold office hours by appointment, just email me and we'll work out a time to meet on campus.  We will also be able to video conference on Skype if needed.
 
-
 ## Co-Requisites
-
 100 level General Education Math.
 
 ## Course Materials
@@ -61,7 +59,7 @@ The entire course has been broken into 30 individual modules.  Each module is po
 ### Week 1 - Monday 7/6 - Sunday 7/12
 | Module  | Topic | Lecture Slides|  Recorded Video
 |--|:--|:--|:--|:--
-| 0 | Course Policies | [Slides](https://docs.google.com/presentation/d/1Sggyft8QRdvOnpAxCT9wuvFkTrjg7AQaOKHEt50u4AQ/pub?start=false&loop=false&delayms=3000&slide=id.g17f500d17_028) | [Video]()
+| 0 | Course Policies | [Slides](https://docs.google.com/presentation/d/1Sggyft8QRdvOnpAxCT9wuvFkTrjg7AQaOKHEt50u4AQ/pub?start=false&loop=false&delayms=3000&slide=id.g17f500d17_028) | [Video 1](http://youtu.be/IsK0AauRsYg), [Video 2](https://youtu.be/n1Xe7xFaYXg)
 | 1 | Fundamentals of Computing | [Slides](https://docs.google.com/presentation/d/11QGJH0p3mvy7uSppzoAyRbQePkvz03sL8LJuFIUjykA/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/brLBuCwRcWc)
 | 2 | Programming Abstractions | [Slides](https://docs.google.com/presentation/d/1r7LFgpEr7sz_otPDK8zXKm2q9yPMg6eU2SORYuWTGa8/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video 1](http://youtu.be/XudnG5UWDM4) - [Video 2](http://youtu.be/kGtix9-Pr0o)
 | 3 | Syntax, Literals, Operators | [Slides](https://docs.google.com/presentation/d/1Czj8UntL0MBlzYiomOdn9I_lhG3m2ismnMtcTzM4Yvw/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/9TOcrOcc8BE)
