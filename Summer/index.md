@@ -80,7 +80,7 @@ The entire course has been broken into 30 individual modules.  Each module is po
 | 14 | Logical Operators | [Slides](https://docs.google.com/presentation/d/1E-4ps_HhL6_UeKZKHEBx2UNV11EVhyvkRmVxasE_llE/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/_nBD67cSfXE)
 | 15 | Switch Statement | [Slides](https://docs.google.com/presentation/d/1Z1k0SbFoIuHxBxrTYRKKFQeugB0HsqGU7YKRqznB1RM/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/QUo-bYuhm80)
 | 16 | While Loops | [Slides](https://docs.google.com/presentation/d/1r5dXEtPH_P6rzGMj22y-eYSLYzlFzbW5D4amzGNPM0o/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/rMue4Lb2utA)
-| 17 | Do-while Loops | [Slides](https://docs.google.com/presentation/d/1r5dXEtPH_P6rzGMj22y-eYSLYzlFzbW5D4amzGNPM0o/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/4VMQOH_F9Yk)
+| 17 | Do-while Loops | [Slides](https://docs.google.com/presentation/d/1oGnyXfB5INoikSthq8oBvni4HPDv9iRoCaY6e6tnxk4/pub?start=false&loop=false&delayms=3000) | [Video](http://youtu.be/4VMQOH_F9Yk)
 | 18 | for loops | [Slides](https://docs.google.com/presentation/d/1n_3UkxEgMk694mrvFymf7t3P9iNkizZXvES9NOrox-g/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/U3S2JntuwQA)
 
 ### Week 3   Monday 7/20 - Sunday 7/26
