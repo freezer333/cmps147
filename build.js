@@ -41,5 +41,5 @@ function build_files(err, files) {
     });
 }
 
-dir.files("Fall-3dwk-hybrid", build_files);
+dir.files(".", build_files);
 
