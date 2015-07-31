@@ -189,7 +189,7 @@ You will have 70 minutes to complete all quizzes, and three hours to complete th
 |------------------:|:---------------
 |10%| Labs
 |20%| Homework Assignments
-|50%| Quizzes Exam (10% each)
+|50%| Quizzes (10% each)
 |20%| Final Exam
 
 ## Letter Grade Assignment

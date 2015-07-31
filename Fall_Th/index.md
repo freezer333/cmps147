@@ -175,7 +175,6 @@ You will have 70 minutes to complete all quizzes, and three hours to complete th
 | **Quiz 2** | Modules 10-15 |  10/8/2015
 | **Quiz 3** | Modules 16-18 | 10/29/2015
 | **Quiz 4** | Modules 19-24 | 11/19/2015
-| **Quiz 5** | Modules 25-28 |  12/3/2015
 | **Final Exam** | Modules 1-30 | TBD by College
 
 # Grading 
@@ -184,7 +183,7 @@ You will have 70 minutes to complete all quizzes, and three hours to complete th
 |------------------:|:---------------
 |10%| Labs
 |20%| Homework Assignments
-|50%| Quizzes Exam (10% each)
+|50%| Quizzes (12.5% each)
 |20%| Final Exam
 
 ## Letter Grade Assignment
