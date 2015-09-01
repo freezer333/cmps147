@@ -6,7 +6,7 @@
 
 **Location:  **This is an online course
 
-**Professor:**&nbsp;&nbsp;Scott Frees, Associate Professor of Computer Science
+**Professor:**&nbsp;&nbsp;Scott Frees, Professor of Computer Science
 
 ** Contact Information**<br/>
 Office&nbsp;&nbsp;G315<br/>

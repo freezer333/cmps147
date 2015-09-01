@@ -5,7 +5,7 @@
 **Meeting Time:** Thursday 6:00m-9:30pm
 **Location:** ASB 429
 
-**Professor:**&nbsp;&nbsp;Scott Frees, Associate Professor of Computer Science
+**Professor:**&nbsp;&nbsp;Scott Frees, Professor of Computer Science
 
 ** Contact Information**
 Office&nbsp;&nbsp;G315
