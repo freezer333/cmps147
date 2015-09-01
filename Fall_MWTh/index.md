@@ -52,7 +52,6 @@ used throughout the semester.  The textbook can be purchased at the college book
 
 <a href='http://www.amazon.com/Introduction-Programming-3rd-Daniel-Liang/dp/0133252817/ref=sr_1_fkmr3_3?ie=UTF8&qid=1417271048&sr=8-3-fkmr3&keywords=Introduction+to+Programming+with+C%2B%2B+%28Brief+Version%29%3B+Lang%2C+Y.+Daniel%3B+ISBN%3A++0-13-232049'><img src='http://ecx.images-amazon.com/images/I/516vxstfV%2BL.jpg' height='200' width='140'/></a>
 
-
 # Course Objectives
 |Student Learning Outcomes| Lectures | Exams | Homework
 |:--|----|--|--
@@ -80,7 +79,7 @@ It is your responsibility to view the Modules (and complete the assigned reading
 
 | Module  | Topic | Lecture Slides|  Recorded Video
 |--|:--|:--|:--|:--
-| 0 | Course Policies | [Slides]() | [Video]()
+| 0 | Course Policies | [Slides](https://docs.google.com/presentation/d/12rTe7eGc8FrSdhbvRUu12rN2J3xoOvKG7ctlAH4fBj0/pub?start=false&loop=false&delayms=3000) | 
 | 1 | Fundamentals of Computing | [Slides](https://docs.google.com/presentation/d/11QGJH0p3mvy7uSppzoAyRbQePkvz03sL8LJuFIUjykA/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/brLBuCwRcWc)
 | 2 | Programming Abstractions | [Slides](https://docs.google.com/presentation/d/1r7LFgpEr7sz_otPDK8zXKm2q9yPMg6eU2SORYuWTGa8/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video 1](http://youtu.be/XudnG5UWDM4) - [Video 2](http://youtu.be/kGtix9-Pr0o)
 | 3 | Syntax, Literals, Operators | [Slides](https://docs.google.com/presentation/d/1Czj8UntL0MBlzYiomOdn9I_lhG3m2ismnMtcTzM4Yvw/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/9TOcrOcc8BE)

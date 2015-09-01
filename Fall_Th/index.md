@@ -46,6 +46,7 @@ You are required to obtain a copy of the textbook for this course, which will be
 
 <a href='http://www.amazon.com/Introduction-Programming-3rd-Daniel-Liang/dp/0133252817/ref=sr_1_fkmr3_3?ie=UTF8&qid=1417271048&sr=8-3-fkmr3&keywords=Introduction+to+Programming+with+C%2B%2B+%28Brief+Version%29%3B+Lang%2C+Y.+Daniel%3B+ISBN%3A++0-13-232049'><img src='http://ecx.images-amazon.com/images/I/516vxstfV%2BL.jpg' height='200' width='140'/></a>
 
+<hr class="print-page"/>
 
 # Course Objectives
 |Student Learning Outcomes| Lectures | Exams | Homework
@@ -74,7 +75,7 @@ It is your responsibility to view the Modules (and complete the assigned reading
 
 | Module  | Topic | Lecture Slides|  Recorded Video
 |--|:--|:--|:--|:--
-| 0 | Course Policies | [Slides]() | [Video]()
+| 0 | Course Policies | [Slides](https://docs.google.com/presentation/d/1tLZGhCSYpLbumX4kDxtdROywwq0ziBCb6Afg8cxqHRg/pub?start=false&loop=false&delayms=3000) | 
 | 1 | Fundamentals of Computing | [Slides](https://docs.google.com/presentation/d/11QGJH0p3mvy7uSppzoAyRbQePkvz03sL8LJuFIUjykA/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/brLBuCwRcWc)
 | 2 | Programming Abstractions | [Slides](https://docs.google.com/presentation/d/1r7LFgpEr7sz_otPDK8zXKm2q9yPMg6eU2SORYuWTGa8/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video 1](http://youtu.be/XudnG5UWDM4) - [Video 2](http://youtu.be/kGtix9-Pr0o)
 | 3 | Syntax, Literals, Operators | [Slides](https://docs.google.com/presentation/d/1Czj8UntL0MBlzYiomOdn9I_lhG3m2ismnMtcTzM4Yvw/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/9TOcrOcc8BE)
@@ -106,6 +107,8 @@ It is your responsibility to view the Modules (and complete the assigned reading
 | 29 | C-Strings | [Slides](https://docs.google.com/presentation/d/1fAToX2anOHHDD7cOO_waRaIEc611T2dpaJOkjogtINI/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/AjnK9pmUgDs)
 | 30 | The string class | [Slides](https://docs.google.com/presentation/d/1_dUq51eVXtDPvIn1NwVCCujF0rmLU-WFLOMFTsilzls/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/BI-ERMHEkZw)
 
+<hr class="print-page"/>
+
 ### Programming Examples
 The majority of modules will include several programming examples.  The module’s video lecture will include a recording of the solution being developed.  Source code for solutions to the programming examples is also provided on appiversity (and below).  I highly recommend that you practice these examples without looking at the lecture videos or source code solutions as a method of preparing for the course’s exams.
 
@@ -135,7 +138,7 @@ Labs represent 10% of your semester grade, so each lab is actually only less tha
 | [Lab 7](https://docs.google.com/presentation/d/1n_3UkxEgMk694mrvFymf7t3P9iNkizZXvES9NOrox-g/pub?start=false&loop=false&delayms=3000#slide=id.g180825c8b_092) | 10/23/2015 (9am)
 | [Lab 8](https://docs.google.com/presentation/d/1Y5PBeJYMusRU-4FYvzM60_MiFaqRyGrKSTswcsF-bFQ/pub?start=false&loop=false&delayms=3000#slide=id.g180b604f6_093) | 11/6/2015 (9am)
 | [Lab 9](https://docs.google.com/presentation/d/1xQrWleG0zduXaUqjjJbz4PkYzH2COPEaOIXizX2Smxk/pub?start=false&loop=false&delayms=3000#slide=id.g18155d4d1_031) | 11/13/2015 (9am)
-| [Lab 10](https://docs.google.com/presentation/d/1B0iIV36zV3dGPDOR9dkzhWFzK4cd-kx2JdyxafbDVIs/pub?start=false&loop=false&delayms=3000#slide=id.g18157c949_018) | 11/27/2015 (9am)
+| [Lab 10](https://docs.google.com/presentation/d/1B0iIV36zV3dGPDOR9dkzhWFzK4cd-kx2JdyxafbDVIs/pub?start=false&loop=false&delayms=3000#slide=id.g18157c949_018) | 12/4/2015 (9am)
 | [Lab 11](https://docs.google.com/presentation/d/1fAToX2anOHHDD7cOO_waRaIEc611T2dpaJOkjogtINI/pub?start=false&loop=false&delayms=3000#slide=id.g18156708b_0105) | 12/11/2015 (9am)
 | [Lab 12](https://docs.google.com/presentation/d/1_dUq51eVXtDPvIn1NwVCCujF0rmLU-WFLOMFTsilzls/pub?start=false&loop=false&delayms=3000#slide=id.g33e80658c_0161) | 12/11/2015 (9am)
 
@@ -146,10 +149,13 @@ In some of the in-class meetings, I will lecture for part of the entire session 
 # Meeting Calendar
 The calendar below is subject to change - please make sure you read your emails!  Class will meet at 6:00pm on each Thursday during the semester, but most weeks we will only meet for approximately 1.5 hours.
 
+<hr class="print-page"/>
+
 <div style="margin:0px;padding:0px;overflow:hidden">
     <iframe src="https://docs.google.com/spreadsheets/d/1yuFdyuPs8xX86QYmTJeT3RTfXILqoPoBnAj8wFi1BTQ/pubhtml?gid=860553058&amp;single=true&amp;widget=true&amp;headers=false" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:500px;width:100%;" height="100%" width="100%"></iframe>
 </div>
 
+<hr class="print-page"/>
 
 # Homework Assignments
 There are four assigned homework problems, with due dates listed on moodle (and below).  Homework programs will likely require 3-6 hours of your time, and will be more involved and complex than your lab assignments.  I will provide more detailed feedback on homework, and grading will be more discerning.  Homework programs 20% of your semester grade, each being 5%.  Like labs, **no late homework will be accepted**.
@@ -176,6 +182,8 @@ You will have 70 minutes to complete all quizzes, and three hours to complete th
 | **Quiz 3** | Modules 16-18 | 10/29/2015
 | **Quiz 4** | Modules 19-24 | 11/19/2015
 | **Final Exam** | Modules 1-30 | TBD by College
+
+<hr class="print-page"/>
 
 # Grading 
 
