@@ -73,6 +73,8 @@ The listing below contains links to each module.  Moodle also contains these lin
 It is your responsibility to view the Modules (and complete the assigned reading) on your own.  The schedule below outlines by which in-class meeting you are required to have complete the module for.  Viewing and reading through each module is NOT optional - they ARE THE LECTURES!
 </p>
 
+<p><a href="../slides_pdf">Slides in PDF form (for printing)</a></p>
+
 | Module  | Topic | Lecture Slides|  Recorded Video
 |--|:--|:--|:--|:--
 | 0 | Course Policies | [Slides](https://docs.google.com/presentation/d/1tLZGhCSYpLbumX4kDxtdROywwq0ziBCb6Afg8cxqHRg/pub?start=false&loop=false&delayms=3000) | 

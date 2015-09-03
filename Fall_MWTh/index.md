@@ -77,6 +77,8 @@ The listing below contains links to each module.  Moodle also contains these lin
 It is your responsibility to view the Modules (and complete the assigned reading) on your own.  The schedule below outlines by which in-class meeting you are required to have complete the module for.  Viewing and reading through each module is NOT optional - they ARE THE LECTURES!
 </p>
 
+<p><a href="../slides_pdf">Slides in PDF form (for printing)</a></p>
+
 | Module  | Topic | Lecture Slides|  Recorded Video
 |--|:--|:--|:--|:--
 | 0 | Course Policies | [Slides](https://docs.google.com/presentation/d/12rTe7eGc8FrSdhbvRUu12rN2J3xoOvKG7ctlAH4fBj0/pub?start=false&loop=false&delayms=3000) | 
@@ -96,7 +98,7 @@ It is your responsibility to view the Modules (and complete the assigned reading
 | 14 | Logical Operators | [Slides](https://docs.google.com/presentation/d/1E-4ps_HhL6_UeKZKHEBx2UNV11EVhyvkRmVxasE_llE/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/_nBD67cSfXE)
 | 15 | Switch Statement | [Slides](https://docs.google.com/presentation/d/1Z1k0SbFoIuHxBxrTYRKKFQeugB0HsqGU7YKRqznB1RM/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/QUo-bYuhm80)
 | 16 | While Loops | [Slides](https://docs.google.com/presentation/d/1r5dXEtPH_P6rzGMj22y-eYSLYzlFzbW5D4amzGNPM0o/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/rMue4Lb2utA)
-| 17 | Do-while Loops | [Slides](https://docs.google.com/presentation/d/1r5dXEtPH_P6rzGMj22y-eYSLYzlFzbW5D4amzGNPM0o/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/4VMQOH_F9Yk)
+| 17 | Do-while Loops | [Slides](https://docs.google.com/presentation/d/1oGnyXfB5INoikSthq8oBvni4HPDv9iRoCaY6e6tnxk4/pub?start=false&loop=false&delayms=3000) | [Video](http://youtu.be/4VMQOH_F9Yk)
 | 18 | for loops | [Slides](https://docs.google.com/presentation/d/1n_3UkxEgMk694mrvFymf7t3P9iNkizZXvES9NOrox-g/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/U3S2JntuwQA)
 | 19 | Introduction to functions | [Slides](https://docs.google.com/presentation/d/10JM5mVOvcGEjWy2Nhs9yUHro8cBkzws2anCc397tQ-Y/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/PqFi-oiFq5w)
 | 20 | void functions | [Slides](https://docs.google.com/presentation/d/1Y5PBeJYMusRU-4FYvzM60_MiFaqRyGrKSTswcsF-bFQ/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/6WijXHf5uWc)
