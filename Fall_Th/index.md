@@ -12,7 +12,7 @@ Office&nbsp;&nbsp;G315
 Phone&nbsp;&nbsp;(201) 684-7726
 Email&nbsp;&nbsp;[sfrees@ramapo.edu](mailto:sfrees@ramapo.edu)
 
-**Office Hours:**   Monday and Thursday, 4-5pm
+**Office Hours:**   Monday 12:45-1:45pm and Thursday 4-5pm
 
 ## Course Description
 An introduction to programming methodology including:  basic concepts of computer systems, the programming languages C/C++, algorithm design, program development, implementation, and testing.
